@@ -1,0 +1,20 @@
+# Xcode user state and local build output
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
+
+# Local secrets and environment overrides
+.env
+.env.*
+*.pem
+*.p12
+*.mobileprovision
